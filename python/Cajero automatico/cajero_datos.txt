@@ -1,0 +1,5 @@
+Usuario,Numero,Pin,Balance
+Luis Alfredo,001,1234,496
+Miguel Gabriel,002,0000,500
+Pepito,003,5555,500
+Juan,004,9012,500
